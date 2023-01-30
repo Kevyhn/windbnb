@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/windbnb/static/css/main.fde4f202.css",
+    "main.js": "/windbnb/static/js/main.e1ff736a.js",
+    "index.html": "/windbnb/index.html",
+    "main.fde4f202.css.map": "/windbnb/static/css/main.fde4f202.css.map",
+    "main.e1ff736a.js.map": "/windbnb/static/js/main.e1ff736a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fde4f202.css",
+    "static/js/main.e1ff736a.js"
+  ]
+}
